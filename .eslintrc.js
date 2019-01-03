@@ -8,8 +8,6 @@ module.exports = {
     indent: ['error', 2],
 
     // options to emulate prettier setup
-    'max-len': ['error', { code: 80 }],
-    'template-curly-spacing': ['error', 'always'],
     'arrow-parens': ['error', 'as-needed'],
 
     // standard.js
