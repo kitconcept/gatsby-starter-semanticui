@@ -5,7 +5,9 @@ A Gatsby starter by kitconcept.
 
 ## Install
 Install dependencies:
-```yarn``
+
+```yarn```
 
 Then you can run it by:
+
 ``` yarn start```
